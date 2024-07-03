@@ -1,0 +1,42 @@
+.new-quote{
+    padding:16px;
+    background-color: cornsilk;
+    width:700px;
+    height: 400px;
+    box-shadow: 2px 3px 4px rgba(0, 0, 0, 26);
+    border-radius: 5px;
+    margin: 30px auto;
+}
+
+.new-quote input{
+    box-sizing: border-box;
+    margin: 5px;
+    width:100%;
+}
+
+
+.new-quote input.label{
+    display:block;
+    margin: 5px;
+}
+
+.new-quote textarea{
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.new-quote textarea{
+    outline: none;
+    height: 250px;
+    margin-top: 10px;
+}
+
+.new-quote button{
+    margin-top: 2px;
+    color: white;
+    background-color: rgb(40,90,40);
+    font-size: medium;
+    padding: 8px 15px;
+    border-radius: 5px;
+    border: none;
+}
